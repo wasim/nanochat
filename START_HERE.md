@@ -32,11 +32,12 @@ python scripts/base_train.py --depth=4 --num_iterations=100
 
 You have access to:
 
-1. **�� LEARNING_GUIDE.md** - Comprehensive 50-page guide
-2. **📊 ARCHITECTURE_DIAGRAMS.md** - 10 visual diagrams
-3. **📚 GLOSSARY.md** - 100+ ML terms explained
-4. **🎯 QUICK_REFERENCE.md** - Cheat sheet
-5. **🗺️ LEARNING_RESOURCES_INDEX.md** - Full navigation
+1. **📖 FOLLOW_THROUGH_GUIDE.md** - 30-day master learning path
+2. **📘 docs/LEARNING_GUIDE.md** - Comprehensive concepts guide
+3. **🏗️ docs/COMPLETE_TRAINING_GUIDE.md** - All training stages (Base → SFT → RL)
+4. **📊 docs/ARCHITECTURE_DIAGRAMS.md** - 10 visual diagrams
+5. **📚 docs/GLOSSARY.md** - 100+ ML terms explained
+6. **🎯 docs/QUICK_REFERENCE.md** - Cheat sheet
 
 ---
 
@@ -155,17 +156,20 @@ Start Here
 
 ### Must Read (Start Here)
 1. This file (START_HERE.md)
-2. Run all 4 interactive scripts
-3. QUICK_REFERENCE.md (keep handy)
+2. Run all 4 interactive scripts in `learn/`
+3. **FOLLOW_THROUGH_GUIDE.md** (Your 30-day roadmap)
+4. docs/QUICK_REFERENCE.md (keep handy)
 
 ### Should Read (This Week)
-4. LEARNING_GUIDE.md sections 1-5
-5. ARCHITECTURE_DIAGRAMS.md
-6. GLOSSARY.md (bookmark for reference)
+5. docs/LEARNING_GUIDE.md sections 1-5
+6. docs/COMPLETE_TRAINING_GUIDE.md (all training stages)
+7. docs/ARCHITECTURE_DIAGRAMS.md
+8. docs/GLOSSARY.md (bookmark for reference)
 
 ### Nice to Read (When Curious)
-7. Source code in `nanochat/`
-8. Training scripts in `scripts/`
+9. Source code in `nanochat/`
+10. Training scripts in `scripts/`
+11. docs/LEARNING_RESOURCES_INDEX.md
 
 ---
 
@@ -258,11 +262,13 @@ python learn/00_quick_overview.py
 
 ## 🆘 Need Help?
 
-1. **Concept unclear?** → Check GLOSSARY.md
-2. **Visual learner?** → See ARCHITECTURE_DIAGRAMS.md
-3. **Want details?** → Read LEARNING_GUIDE.md
-4. **Quick lookup?** → Use QUICK_REFERENCE.md
-5. **Code issue?** → Use VS Code debugger (F5)
+1. **Concept unclear?** → Check docs/GLOSSARY.md
+2. **Visual learner?** → See docs/ARCHITECTURE_DIAGRAMS.md
+3. **Want details?** → Read docs/LEARNING_GUIDE.md
+4. **Training stages?** → See docs/COMPLETE_TRAINING_GUIDE.md
+5. **Daily roadmap?** → Follow FOLLOW_THROUGH_GUIDE.md
+6. **Quick lookup?** → Use docs/QUICK_REFERENCE.md
+7. **Code issue?** → Use VS Code debugger (F5)
 
 ---
 
